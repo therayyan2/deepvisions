@@ -1,6 +1,2 @@
 streamlit
 requests 
-time
-base64
-BytesIO
-PIL
